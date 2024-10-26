@@ -1,5 +1,7 @@
-## Hi there 👋
-
+My other projects:
+* https://gitlab.uliege.be/rboman
+* http://metafor.ltas.ulg.ac.be
+  
 <!--
 **rboman/rboman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
